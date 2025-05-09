@@ -1,6 +1,3 @@
-# Parallax Image Layers - Osmo
+# Parallax Website Builder
 
-A Pen created on CodePen.
-
-Original URL: [https://codepen.io/osmosupply/pen/NWQevrB](https://codepen.io/osmosupply/pen/NWQevrB).
-
+Build advanced websites.
